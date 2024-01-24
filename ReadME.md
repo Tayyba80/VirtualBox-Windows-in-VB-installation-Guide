@@ -12,7 +12,7 @@ Aim of this is to guide you how to install virtual box and install windows in vi
 
 - Navigate to the installer file and double-click on it.
 
-![](vb.jpg)
+![](readMEimgs\vb.jpg)
 
 
 
@@ -20,13 +20,11 @@ Aim of this is to guide you how to install virtual box and install windows in vi
 
 - After installation, Click on the .exe file and run it. After this, following window appears:
 
-![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\\2nd.png)
+![](readMEimgs\\2nd.png)
 
 - Click on "New". Then you will get this kind of interface:
 
-  
-
-  <img src="C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\5th.png"  />
+  ![](readMEimgs\5th.png)
 
 - Enter "Name" you want to give to your virtual machine. Give the path of ISO file from you PC in "ISO image".
 
@@ -39,7 +37,7 @@ Aim of this is to guide you how to install virtual box and install windows in vi
 3. Select the version of Windows you want to download.
 4. Click on the download button.
 
-![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\iso.jpg)
+![](readMEimgs\iso.jpg)
 
 - Hurrah! We have ISO file now. Now you can add its path and then click "Next".
 
@@ -49,7 +47,7 @@ Now, you need to decide how much RAM you want to allocate for this VM. For the x
 
 
 
-![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\3rd.png)
+![](readMEimgs\3rd.png)
 
 ## Creat a Virtual Hard disk
 
@@ -57,21 +55,21 @@ Next, you need to create a virtual drive. Microsoft says that 16GB is the minimu
 
 
 
-![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\4th.png)
+![](readMEimgs\4th.png)
 
 - Click on "Next" button and you will get the following Window:
 
-![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\7th.png)
+![](readMEimgs\7th.png)
 
 - Click on "Finish" button. Then Windows start to install in virtual box automatically(because of windows.iso path we give in previous step). Here you can see:
 
-![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\finish.jpg)
+![](readMEimgs\finish.jpg)
 
 ## You're ready to rock
 
 Back at the desktop, you can finally use full-screen mode at the proper resolution. In the VirtualBox menu, go to "View," and select "Switch to Fullscreen." For the most part, this is now the same experience you'd have running it natively. Enjoy yourself, and feel free to poke around all the new features.
 
-![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\win10VM [Running] - Oracle VM VirtualBox 24_01_2024 07_53_07 PM.png)
+![](readMEimgs\win10VM [Running] - Oracle VM VirtualBox 24_01_2024 07_53_07 PM.png)
 
 
 
