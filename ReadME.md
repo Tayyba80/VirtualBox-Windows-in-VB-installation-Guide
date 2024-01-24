@@ -6,7 +6,7 @@ Aim of this is to guide you how to install virtual box and install windows in vi
 
 -  Go to the "Oracle VirtualBox" download page using the below link.
 
-  [Oracle VirtualBox]: https://www.oracle.com/pk/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+  https://www.oracle.com/pk/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 
 -  Click on the Windows hosts link. Save the installer file anywhere you prefer.
 
