@@ -12,7 +12,7 @@ Aim of this is to guide you how to install virtual box and install windows in vi
 
 - Navigate to the installer file and double-click on it.
 
-![Virtual Box Install](C:\Users\Personal\Downloads\vb.jpg)
+![](vb.jpg)
 
 
 
@@ -20,7 +20,7 @@ Aim of this is to guide you how to install virtual box and install windows in vi
 
 - After installation, Click on the .exe file and run it. After this, following window appears:
 
-![](C:\Users\Personal\Downloads\2nd.png)
+![](C:\Users\Personal\Desktop\VirtualBoxWindows in Virtual Box\readMEimgs\\2nd.png)
 
 - Click on "New". Then you will get this kind of interface:
 
