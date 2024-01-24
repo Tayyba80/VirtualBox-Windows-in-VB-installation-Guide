@@ -69,7 +69,7 @@ Next, you need to create a virtual drive. Microsoft says that 16GB is the minimu
 
 Back at the desktop, you can finally use full-screen mode at the proper resolution. In the VirtualBox menu, go to "View," and select "Switch to Fullscreen." For the most part, this is now the same experience you'd have running it natively. Enjoy yourself, and feel free to poke around all the new features.
 
-![](readMEimgs/win10VM [Running] - Oracle VM VirtualBox 24_01_2024 07_53_07 PM.png)
+![](readMEimgs/start.png)
 
 
 
